@@ -1,0 +1,141 @@
+[[NetCDFF]]
+arch = "aarch64"
+git-tree-sha1 = "0d7a29fa80c2832c91edf25fed3bfa471e270946"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[NetCDFF.download]]
+    sha256 = "e4bf689e735cdb12fe602138246e3551c70fbbdd1dbd4e40deeb89364212b536"
+    url = "https://github.com/JuliaBinaryWrappers/NetCDFF_jll.jl/releases/download/NetCDFF-v4.5.3+0/NetCDFF.v4.5.3.aarch64-linux-gnu-libgfortran3.tar.gz"
+[[NetCDFF]]
+arch = "aarch64"
+git-tree-sha1 = "b11265b58e239186877b027546d1ee96fad0f486"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[NetCDFF.download]]
+    sha256 = "656a677cb63f5264a29883258bae6841ca6f4ea9e28d9cadf1260125e22c1dbf"
+    url = "https://github.com/JuliaBinaryWrappers/NetCDFF_jll.jl/releases/download/NetCDFF-v4.5.3+0/NetCDFF.v4.5.3.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[NetCDFF]]
+arch = "aarch64"
+git-tree-sha1 = "ec36a09afbea7e835e192a4ed3d413a45036b3e1"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[NetCDFF.download]]
+    sha256 = "797b6bf493c7778427950aed66bf3724d3ee3842d2a87bdaa33f7c89bdc7b50d"
+    url = "https://github.com/JuliaBinaryWrappers/NetCDFF_jll.jl/releases/download/NetCDFF-v4.5.3+0/NetCDFF.v4.5.3.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[NetCDFF]]
+arch = "i686"
+git-tree-sha1 = "ef53f6adb8f930bffe83dc0e925ec62a523c8c58"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[NetCDFF.download]]
+    sha256 = "2762842a7341a9f83b84dd41aeb3b4baf3b6284762c88a23d0b72c9b101912fd"
+    url = "https://github.com/JuliaBinaryWrappers/NetCDFF_jll.jl/releases/download/NetCDFF-v4.5.3+0/NetCDFF.v4.5.3.i686-w64-mingw32-libgfortran3.tar.gz"
+[[NetCDFF]]
+arch = "i686"
+git-tree-sha1 = "6d275e4184c49a3035f388f54e49cfad2b22dcd0"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[NetCDFF.download]]
+    sha256 = "99027e266c38870a699f2d3503778b2480076c3cbfd9072cf79a855fe8c73553"
+    url = "https://github.com/JuliaBinaryWrappers/NetCDFF_jll.jl/releases/download/NetCDFF-v4.5.3+0/NetCDFF.v4.5.3.i686-w64-mingw32-libgfortran4.tar.gz"
+[[NetCDFF]]
+arch = "i686"
+git-tree-sha1 = "0520f7d934706f071b49d8d0c1bade4df3f3402a"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[NetCDFF.download]]
+    sha256 = "3978478844d6af10988e36447cbbc0bb668578cd0f229a600b7afa8fa705e2ba"
+    url = "https://github.com/JuliaBinaryWrappers/NetCDFF_jll.jl/releases/download/NetCDFF-v4.5.3+0/NetCDFF.v4.5.3.i686-w64-mingw32-libgfortran5.tar.gz"
+[[NetCDFF]]
+arch = "x86_64"
+git-tree-sha1 = "d7b2e066230d790da988ca9546abb1ee0fe0492e"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[NetCDFF.download]]
+    sha256 = "2ff24f0a91a49021dc7991a23da4f5a79ce179a10ce50174e7a2c74391865618"
+    url = "https://github.com/JuliaBinaryWrappers/NetCDFF_jll.jl/releases/download/NetCDFF-v4.5.3+0/NetCDFF.v4.5.3.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[NetCDFF]]
+arch = "x86_64"
+git-tree-sha1 = "a28363eee2c3439f8cb2a213fdb347a6ff222038"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[NetCDFF.download]]
+    sha256 = "783f717dede6aceb936ed8560546abccc68dbc2beee276f6666d03d3777a45ad"
+    url = "https://github.com/JuliaBinaryWrappers/NetCDFF_jll.jl/releases/download/NetCDFF-v4.5.3+0/NetCDFF.v4.5.3.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[NetCDFF]]
+arch = "x86_64"
+git-tree-sha1 = "b2244574242ae4c8ffc144cd9571cb1ce30ae838"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[NetCDFF.download]]
+    sha256 = "3132bebb8654ddab34560966efca4b08ccdb776911e5b00c6f2c86cdabeadcf3"
+    url = "https://github.com/JuliaBinaryWrappers/NetCDFF_jll.jl/releases/download/NetCDFF-v4.5.3+0/NetCDFF.v4.5.3.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[NetCDFF]]
+arch = "x86_64"
+git-tree-sha1 = "3c9eda6710d9ff1b4c49af5adb949bd0c6e13ad3"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[NetCDFF.download]]
+    sha256 = "e5205f725c844d653a056113f2b75c4809a565bb09030f0acef2b723b08ba68b"
+    url = "https://github.com/JuliaBinaryWrappers/NetCDFF_jll.jl/releases/download/NetCDFF-v4.5.3+0/NetCDFF.v4.5.3.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[NetCDFF]]
+arch = "x86_64"
+git-tree-sha1 = "bea5bd1f681b15be638660092d917a1be2fd4746"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[NetCDFF.download]]
+    sha256 = "822a66dd9dd6eb145fdac8991109842928f64cf45225fc7d1e8dcaeb0eeb9da2"
+    url = "https://github.com/JuliaBinaryWrappers/NetCDFF_jll.jl/releases/download/NetCDFF-v4.5.3+0/NetCDFF.v4.5.3.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[NetCDFF]]
+arch = "x86_64"
+git-tree-sha1 = "b2b31d91ad92a26a1cfc9b4c44859110aac87754"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[NetCDFF.download]]
+    sha256 = "3c37984f243379d0a06c6ee6dc3a02956f2d68bedb3617202a304792b11b5df0"
+    url = "https://github.com/JuliaBinaryWrappers/NetCDFF_jll.jl/releases/download/NetCDFF-v4.5.3+0/NetCDFF.v4.5.3.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[NetCDFF]]
+arch = "x86_64"
+git-tree-sha1 = "b132d87ed9c564adc17a008c40ba794a645158f8"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[NetCDFF.download]]
+    sha256 = "83a0ef3872d094940b0461252700588a448da0ddafa707dd85e81ef08133f670"
+    url = "https://github.com/JuliaBinaryWrappers/NetCDFF_jll.jl/releases/download/NetCDFF-v4.5.3+0/NetCDFF.v4.5.3.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[NetCDFF]]
+arch = "x86_64"
+git-tree-sha1 = "e85da4ea6e006f6dffe29a74da8aa162d8e1a6b5"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[NetCDFF.download]]
+    sha256 = "5e30ba1875ef97a7ad1560f866f98ded97aa8de84b5c18ffed75039af16ce365"
+    url = "https://github.com/JuliaBinaryWrappers/NetCDFF_jll.jl/releases/download/NetCDFF-v4.5.3+0/NetCDFF.v4.5.3.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[NetCDFF]]
+arch = "x86_64"
+git-tree-sha1 = "32b2930836dc46995abfd314b2d993066ae90316"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[NetCDFF.download]]
+    sha256 = "720cfe2a530c3d5400d8edf5fc22ede312f1d385a24489c6b871e288118777a2"
+    url = "https://github.com/JuliaBinaryWrappers/NetCDFF_jll.jl/releases/download/NetCDFF-v4.5.3+0/NetCDFF.v4.5.3.x86_64-w64-mingw32-libgfortran5.tar.gz"
